@@ -4,15 +4,15 @@ layout: default
 
 ### Senior Seminar Project
 
+### Presented on at the Association for Computing Machinery 2016 Fall Conference in Gatlinburg
+
 ### Abstract-
 
 Speed and efficiency are essential to customer service; today, that means having quality software with a clean underlying database. After serving the university for almost a decade, the UTM Computer Store’s inventory system fails to meet these expectations. The system experiences numerous issues including erroneous user input and faulty permission checking. Many of the store’s systems, including its inventory, are based in FileMaker Pro, a database management system with its own built-in applications and scripting functionality. We will work with the current FileMaker Pro applications to add new features while preserving the store’s current infrastructure.  By automating processes including barcode entry as well as providing previously unwritten documentation to users, we intend to include features that will provide partial cleanup to the store’s disorganized database without burdening the user.  
 
-## Keywords- inventory, system, database, UTM Computer Store, FileMaker
+### Keywords- inventory, system, database, UTM Computer Store, FileMaker
 
 ### I. INTRODUCTION
-
-A. UTM Computer Store Inventory System
 
 The UTM Computer Store has been utilizing a system that has existed for more than two decades.  Over time, some issues with the store's system have become apparent, causing several different problems that have resulted in inefficiency.  We have attempted to implement solutions to these problems within the current system that uses FileMaker Pro.  As a result, we hope to improve the computer store's ability to do business without having to consistently deal with issues within the software they use every day.
 
@@ -23,7 +23,7 @@ We immediately began by using a school licensed copy of FileMaker Pro to begin l
 
 ### III. DEVELOPMENT TOOLS
 
-A. FileMaker Pro
+A. Software (FileMaker Pro)
 
 FileMaker Pro is a relational database platform that utilizes a GUI to develop applications for businesses and organizations.  The applications built in FileMaker run within the FileMaker program.  FileMaker applications are cross-platform, working across the major three operating systems (Linux, Mac, and Windows) and between various devices (mobile, PC, tablet).  The FileMaker platform enables rapid deployment of applications as well as for quick adaptability with agile systems.  
 Some of the major components of FileMaker include the database, layouts, fields, records, portals, and scripts.  The database component of FileMaker allows the user to create an entity relationship model (ERM) based database using a GUI.  You can create entities and attributes of entities as tables.  From the tables, you can define relationships between tables and specify attribute keys.
@@ -34,6 +34,8 @@ A field within FileMaker is the basic unit of data entry for each record.  Each 
 A record in FileMaker consists of a set of fields that have been populated on a layout.  Each record consists of the data that is contained from a single activity or transaction.  An example record from a business's inventory product layout could include product name, product ID, cost, quantity, ect.
 The portal component of FileMaker allows for the user to display fields from multiple related tables in an organized table.  You can directly modify the records through the portal.  For example on a student record, you could display a list of all the classes a student is taking.
 Finally, the scripting component of FileMaker allows the user to automate reptitive or difficult tasks that can't be handled in other ways.  You can design scripts using predesignated control structures contained within FileMaker.  The control structures in FileMaker follow traditional programming paradigms for functions such as conditional statements and loop statements.
+
+B.
 
 
 ### IV. Computer Store Inventory System Solutions
@@ -64,9 +66,3 @@ Several issues within the UTM Computer Store Inventory System have been addresse
 >Weber, Mike. "FileMaker History." Mac Software Guide. Cobweb Publishing, Inc., 15 Sept. 2008. Web. 3 Oct. 2016.  (Weber, 2008)
 
 >What Is FileMaker? Perf. Richard Carlton. YouTube. FileMaker Training Videos, 22 May 2016. Web. 3 Oct. 2016. (Carlton, 2016)
-
-
-
-
-##### Footnotes:
-ACM Gatlinburg Conference 2016
