@@ -2,9 +2,12 @@
 layout: default
 ---
 
-## Senior Seminar Project
+### University of Tennessee Martin
+### Senior Project
 
 ##### Presented on at the Association for Computing Machinery 2016 Fall Conference in Gatlinburg
+
+<hr>
 
 ### Abstract-
 
